@@ -2,10 +2,10 @@
 
 Welcome to the GenAI/LLM Demo Apps repository! This repository contains various demo applications showcasing the capabilities of Generative AI and Large Language Models.
 
-      <u>Project1 :Translator and Text Summarizer: English to French</>
-           <u>*Description*:</u> 
-           This application takes a long English text as input and outputs a translated summary in French.
-           Link to the project: https://huggingface.co/spaces/Jimmy-Rais/Translated_Text_Summary_English-To-French
+     Requirements:
+     pip install transformers
+     pip install torch
+     pip install gradio
 
 This application takes a long English text as input and outputs a translated summary in French.
 
