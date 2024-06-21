@@ -15,6 +15,6 @@ This application takes a long English text as input and outputs a translated sum
 
 ![Capture d’écran (110)](https://github.com/Jimmy-Rais/HuggingFace_Spaces/assets/81222691/383be3f3-ae91-4371-9394-16380eafd645)
 
-#Link to the project: https://huggingface.co/spaces/Jimmy-Rais/Translated_Text_Summary_English-To-French
+### Link to the demo app: https://huggingface.co/spaces/Jimmy-Rais/Translated_Text_Summary_English-To-French
 
 
