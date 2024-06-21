@@ -1,8 +1,7 @@
 # GenAI/LLM Demo Apps hosted on HuggingFace Spaces
 
 
-
-##PROJECT1
+### 1. <span style="color:blue;">Translator and Text Summarizer: English to French</span>
 
 Welcome to the GenAI/LLM Demo Apps repository! This repository contains various demo applications showcasing the capabilities of Generative AI and Large Language Models.
 
