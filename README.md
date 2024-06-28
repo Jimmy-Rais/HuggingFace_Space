@@ -19,16 +19,16 @@ This application takes a long English text as input and outputs a translated sum
 
 
  
+
   ## 2. <span style="color:blue;">Voice Cloning Multilingual Translator</span>
 
-
-     
-Requirements:
+  
+    Requirements:
     pip install transformers
     pip install torch
     pip install gradio
     pip install TTS
-Models used:
+    Models used:
     Speech_to_text: distil-whisper/distil-small.en(HuggingFace)
     Machine_translation: facebook/nllb-200-distilled-600M(HuggingFace)
     Voice_cloning: tts_models/multilingual/multi-dataset/xtts_v2
